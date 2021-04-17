@@ -1,0 +1,46 @@
+body{
+    background: brown;
+}
+
+h1{
+    color: chartreuse;
+    text-align: center;
+
+}
+
+p{
+    color: #ffffff;
+}
+
+
+a{
+    text-decoration: none;
+
+}
+
+button{
+   height: 45px;
+   width: 250px;
+   background: #000000; 
+   color: #ffffff;
+   cursor: pointer;
+}
+
+h4{
+    color: #ffffff;
+    text-align: center;
+    text-decoration: aqua;
+}
+
+.lagos{
+    padding: 45px 45px;
+    background: rgb(35, 39, 39);
+    border: 2px solid blue;
+}
+
+#image{
+    height: 300px;
+    width: 300px;
+    align-items: center;
+    border-radius: 150px;
+}
