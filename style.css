@@ -1,15 +1,16 @@
 body{
-    background: brown;
+    background: rgb(134, 7, 7);
 }
 
 h1{
-    color: chartreuse;
+    color: #f0b30d;
     text-align: center;
 
 }
 
 p{
     color: #ffffff;
+    font-size: 26px;
 }
 
 
